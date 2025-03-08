@@ -1,0 +1,38 @@
+[
+  {
+    "id": "light_rain",
+    "name": "Light Rain",
+    "fileName": "light-rain.mp3",
+    "category": "rain"
+  },
+  {
+    "id": "heavy_rain",
+    "name": "Heavy Rain",
+    "fileName": "heavy-rain.mp3",
+    "category": "rain"
+  },
+  {
+    "id": "thunder",
+    "name": "Thunder",
+    "fileName": "thunder.mp3",
+    "category": "rain"
+  },
+  {
+    "id": "rain-on-leaves",
+    "name": "Rain on Leaves",
+    "fileName": "rain-on-leaves.mp3",
+    "category": "rain"
+  },
+  {
+    "id": "rain-on-tent",
+    "name": "Rain on Tent",
+    "fileName": "rain-on-tent.mp3",
+    "category": "rain"
+  },
+  {
+    "id": "rain-on-window",
+    "name": "Rain on Window",
+    "fileName": "rain-on-window.mp3",
+    "category": "rain"
+  },
+]
